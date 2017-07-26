@@ -7,7 +7,7 @@ if __name__ == "__main__":
         description='Setup for Team1',
         author='Yigitcan Eken',
         author_email='ekenyigi@chemistry.msu.edu',
-        url="https://github.com/Yigitcan-MSU/MM_2017_SSS_Team1.git",
+        url="https://github.com/MolSSI-SSS/MM_2017_SSS_Team1.git",
         license='BSD-3C',
         packages=setuptools.find_packages(),
         install_requires=[
