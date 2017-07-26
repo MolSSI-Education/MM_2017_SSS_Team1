@@ -4,9 +4,9 @@ if __name__ == "__main__":
     setuptools.setup(
         name='MM_2017_SSS_Team1',
         version="0.1.1",
-        description='Setup for Team1',
-        author='Yigitcan Eken',
-        author_email='ekenyigi@chemistry.msu.edu',
+        description='A starting template for Python programs',
+        author='Yigitcan, Yohanna, Grey',
+        author_email='grui@sas.upenn.edu',
         url="https://github.com/MolSSI-SSS/MM_2017_SSS_Team1.git",
         license='BSD-3C',
         packages=setuptools.find_packages(),
